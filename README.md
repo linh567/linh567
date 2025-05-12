@@ -3,9 +3,7 @@
 I'm a Mechanical Engineering student at UT Austin with a passion for robotics, coding, and creative problem-solving.  
 I’m most excited when I get to bridge the gap between hardware and software—whether that’s through building systems, writing code, or prototyping new ideas.
 
-🔗 **Connect with me**  
-[LinkedIn](https://www.linkedin.com/in/linhtran56/)  
-📧 linh.tran@utexas.edu  
+I'd love to connect and learn from others in the field! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/linhtran56/) or @linh.tran@utexas.edu  
 
 ---
 
