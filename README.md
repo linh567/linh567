@@ -3,8 +3,6 @@
 I'm a Mechanical Engineering student at UT Austin with a passion for robotics, coding, and creative problem-solving.  
 I’m most excited when I get to bridge the gap between hardware and software—whether that’s through building systems, writing code, or prototyping new ideas.
 
----
-
 🔗 **Connect with me**  
 [LinkedIn](https://www.linkedin.com/in/linhtran56/)  
 📧 linh.tran@utexas.edu  
@@ -21,7 +19,7 @@ I’m most excited when I get to bridge the gap between hardware and software—
 - **Description**: Global path planning for microrobot swarm
 - **Languages Used**: MATLAB, LabVIEW
 - **Collaborators**: [Raghav](https://github.com/RaghavKatta), and [Annie](https://github.com/nnieu)
-# Classwork
+# 📚 Classwork
 ## [Gateway to Robotics Hands On 3](https://github.com/HarrisonFloyd7100/RBT350-Fall24-H03)
 - **Description**: Forward and inverse kinematics on a 3D printed robot arm
 - **Languages Used**: Python
