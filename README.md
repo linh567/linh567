@@ -1,12 +1,8 @@
-👋 Hi, I'm Linh!
-
+#👋 Hi, I'm Linh!
 I'm a Mechanical Engineering student at UT Austin with a passion for robotics, coding, and creative problem solving.I’m most excited when I get to bridge the gap between hardware and software—whether that’s through building systems, writing code, or prototyping new ideas.
----
 🔗 **Connect with me**  
 **[LinkedIn]**(https://www.linkedin.com/in/linhtran56/)  
 📧 linh.tran@utexas.edu  
----
-
 # Projects
 ## [Rearrangement Planner](https://github.com/JSJ9/FRI_Arrangement_Plan)
 - **Description**: Rearrangement planning project with the goal of finding valid poses given current pose
