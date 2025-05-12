@@ -6,7 +6,7 @@ I'm a Mechanical Engineering student at UT Austin with a passion for robotics, c
 ---
 
 🔗 **Connect with me**  
-[LinkedIn](https://www.linkedin.com/in/linhtran56/)  
+**[LinkedIn]**(https://www.linkedin.com/in/linhtran56/)  
 📧 linh.tran@utexas.edu  
 ---
 
