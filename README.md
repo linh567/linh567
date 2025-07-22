@@ -8,8 +8,8 @@ I'd love to connect and learn from others in the field! Feel free to reach out o
 ---
 
 # 🛠️ Project
-## [Wholebody Control (FRI II)]
-- **Description**: Modify existing wholebody control framework for mobile manipulator
+## [Wholebody Control (FRI II)] (https://drive.google.com/file/d/1qMC4LAMy1Jbs7f7TJbfK-c_xZQTDr1B2/view?usp=sharing)
+- **Description**: Modify existing whole body control framework for mobile manipulator
 - **Languages Used**: Python
 - **Collaborators**: Khoi and Payton
 ## [Rearrangement Planner (FRI I)](https://github.com/JSJ9/FRI_Arrangement_Plan)
